@@ -1,0 +1,6 @@
+@RottenBananas.Server_HostAddress = http://localhost:5044
+
+GET {{RottenBananas.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
